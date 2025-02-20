@@ -5,7 +5,7 @@ test -x %%PREFIX%%/bin/cscli || exit 0
 # splay hub upgrade and crowdsec reload
 sleep "$(jot -r 1 1 300)"
 
-# favor the opnsense plugin's cron if it's there
+# favor the yetisense plugin's cron if it's there
 test -e /usr/local/etc/cron.d/oscrowdsec.cron && exit 0
 
 %%PREFIX%%/bin/cscli --error -o human hub update

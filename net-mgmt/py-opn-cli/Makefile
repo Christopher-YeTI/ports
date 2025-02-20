@@ -6,7 +6,7 @@ MASTER_SITES=	PYPI
 PKGNAMEPREFIX=	${PYTHON_PKGNAMEPREFIX}
 
 MAINTAINER=	freebsd@moov.de
-COMMENT=	OPNsense CLI written in Python
+COMMENT=	YETIsense CLI written in Python
 WWW=		https://github.com/andeman/opn-cli
 
 LICENSE=	BSD2CLAUSE

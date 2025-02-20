@@ -4,7 +4,7 @@ PORTREVISION=	2
 CATEGORIES=	net
 MASTER_SITES=	http://www.litech.org/tayga/
 
-MAINTAINER=	franco@opnsense.org
+MAINTAINER=	franco@yetisense.org
 COMMENT=	Userland stateless NAT64 daemon
 WWW=		http://www.litech.org/tayga/
 

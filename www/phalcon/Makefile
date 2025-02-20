@@ -4,7 +4,7 @@ DISTVERSION=	5.8.0
 CATEGORIES=	www
 PKGNAMEPREFIX=	${PHP_PKGNAMEPREFIX}
 
-MAINTAINER=	franco@opnsense.org
+MAINTAINER=	franco@yetisense.org
 COMMENT=	Phalcon PHP Framework written in C-language
 WWW=		https://phalcon.io/
 

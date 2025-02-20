@@ -1,0 +1,8 @@
+libexec/bsdinstall/yetisense
+libexec/bsdinstall/yetisense-import
+libexec/bsdinstall/yetisense-install
+libexec/bsdinstall/yetisense-reset
+libexec/bsdinstall/yetisense-rootpass
+libexec/bsdinstall/yetisense-ufs
+libexec/bsdinstall/yetisense-zfs
+libexec/bsdinstall/yetisense.subr

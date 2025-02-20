@@ -141,7 +141,7 @@ GSSAPI_MIT_CONFIGURE_ON=	--with-mit-krb5=${GSSAPIBASEDIR} \
 				krb5_config=${GSSAPIBASEDIR}/bin/krb5-config
 GSSAPI_MIT_PLIST_SUB=		AUTH_KERB=""
 
-# OPNsense addition
+# YETIsense addition
 OPTIONS_DEFINE+=		NO_FORGERY5
 NO_FORGERY5_DESC=		Disable Host-Header-Forgery check in transparent SSL
 NO_FORGERY5_EXTRA_PATCHES+=	${FILESDIR}/extra-patch-host-header-forgery

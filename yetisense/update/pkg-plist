@@ -1,0 +1,18 @@
+@postunexec mv %%PREFIX%%/sbin/yetisense-bootstrap.bak %%PREFIX%%/sbin/yetisense-bootstrap
+@preunexec cp %%PREFIX%%/sbin/yetisense-bootstrap %%PREFIX%%/sbin/yetisense-bootstrap.bak
+share/man/man8/yetisense-bootstrap.8.gz
+share/man/man8/yetisense-code.8.gz
+share/man/man8/yetisense-fetch.8.gz
+share/man/man8/yetisense-patch.8.gz
+share/man/man8/yetisense-revert.8.gz
+share/man/man8/yetisense-sign.8.gz
+share/man/man8/yetisense-update.8.gz
+share/man/man8/yetisense-verify.8.gz
+sbin/yetisense-bootstrap
+sbin/yetisense-code
+sbin/yetisense-fetch
+sbin/yetisense-patch
+sbin/yetisense-revert
+sbin/yetisense-sign
+sbin/yetisense-update
+sbin/yetisense-verify

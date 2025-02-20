@@ -1,0 +1,5 @@
+etc/pam.d/yetisense-login
+lib/pam_yetisense.so
+libexec/yetisense-pam
+sbin/yetisense-login
+share/man/man8/yetisense-login.8.gz
