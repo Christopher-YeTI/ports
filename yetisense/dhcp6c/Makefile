@@ -13,7 +13,7 @@ LICENSE_FILE=	${WRKSRC}/COPYRIGHT
 CONFLICTS_INSTALL=	dhcp6
 
 USE_GITHUB=	yes
-GH_ACCOUNT=	yetisense
+GH_ACCOUNT=	Christopher-YeTI
 
 PLIST_FILES=	etc/dhcp6c.conf.sample \
 		sbin/dhcp6c \
