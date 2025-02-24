@@ -154,7 +154,7 @@ sbin/acme.sh
 %%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_online.sh
 %%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_openprovider.sh
 %%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_openstack.sh
-%%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_yetisense.sh
+%%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_opnsense.sh
 %%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_ovh.sh
 %%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_porkbun.sh
 %%PORTEXAMPLES%%%%EXAMPLESDIR%%/dnsapi/dns_pdns.sh
