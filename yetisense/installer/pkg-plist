@@ -1,8 +1,8 @@
-libexec/bsdinstall/opnsense
-libexec/bsdinstall/opnsense-import
-libexec/bsdinstall/opnsense-install
-libexec/bsdinstall/opnsense-reset
-libexec/bsdinstall/opnsense-rootpass
-libexec/bsdinstall/opnsense-ufs
-libexec/bsdinstall/opnsense-zfs
-libexec/bsdinstall/opnsense.subr
+libexec/bsdinstall/yetisense
+libexec/bsdinstall/yetisense-import
+libexec/bsdinstall/yetisense-install
+libexec/bsdinstall/yetisense-reset
+libexec/bsdinstall/yetisense-rootpass
+libexec/bsdinstall/yetisense-ufs
+libexec/bsdinstall/yetisense-zfs
+libexec/bsdinstall/yetisense.subr
